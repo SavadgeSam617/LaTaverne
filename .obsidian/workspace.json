@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "266d1bcfdf3868b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcea58bf97731dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c95eeee48bc74f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "046957444f9386d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "54acd0504d4f33df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d017b2a0fcacc4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8583e0f94d9c9f9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88da0a1b6803fce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43e560ad292bb476",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c62a1d5f8f3943e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdecd157c22371a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed41093aa0f57a52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f446161a709cf870",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14d0a5c1197c73a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "016eb7b51c0c7583",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "random-note:Ouvre une note au hasard": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "0d017b2a0fcacc4d",
+  "lastOpenFiles": [
+    "Images",
+    "SpellBook/D&D5/1st LV/Sleep.md",
+    "SpellBook/D&D5/Eldritch invocations/Superior Pact Weapon UA.md",
+    "Une affaire de chien/Sessions",
+    "Une affaire de chien/Players",
+    "Une affaire de chien/NPCs",
+    "Une affaire de chien/Groupes",
+    "Une affaire de chien/Event",
+    "Shadows of heroism/Sessions",
+    "Shadows of heroism/Players",
+    "Shadows of heroism/NPCs",
+    "Shadows of heroism/Groupes",
+    "Shadows of heroism/Event",
+    "Templates/NPC.md",
+    "Templates/Spell.md",
+    "Templates/Sessions.md",
+    "Templates/Player.md",
+    "Templates/Investigation.md",
+    "Templates/Groupes.md",
+    "Templates/Event.md",
+    "Templates/Eldritch Invocations.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Stan.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Sofiya Petrov.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Richard.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Nero.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Kyle.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Kenny.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Karl.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Jeremy.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Jeremaya.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Eric.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Emlynn Snow.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Elioth.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Dante.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Wyvern/Alezei Petrov.md",
+    "Tavern/Nightmare&Daydreams/Shadows of Heroism/NPC/Inquisiteurs/Lindwurm/Myklios.md"
+  ]
+}
