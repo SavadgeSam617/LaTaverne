@@ -1,7 +1,7 @@
 ---
 Type: Spell
 Spell LV: 3
-Scool: 
+School: 
 Ressource: 
 Range: 
 Components: 
