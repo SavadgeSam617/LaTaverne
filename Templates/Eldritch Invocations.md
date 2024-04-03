@@ -1,5 +1,5 @@
 ---
-Type: Eldtitch invocation
+Type: Eldritch invocation
 tags:
   - Warlock
 ---
