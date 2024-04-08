@@ -11,8 +11,12 @@
             "id": "edf9cdcbad1c77e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md"
+              }
             }
           },
           {
@@ -142,13 +150,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "random-note:Ouvre une note au hasard": false,
+      "workspaces:Gérer les espaces de travail": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
@@ -156,32 +164,33 @@
   },
   "active": "edf9cdcbad1c77e3",
   "lastOpenFiles": [
-    "SpellBook/D&D5/4th LV/Widogast's Web of Fire (HB).md",
-    "SpellBook/D&D5/4th LV/Widogast's Vault of Amber (HB).md",
-    "SpellBook/D&D5/4th LV/Watery Sphere.md",
-    "SpellBook/D&D5/4th LV/Wall of Fire.md",
-    "SpellBook/D&D5/4th LV/Vitriolic Sphere.md",
-    "SpellBook/D&D5/4th LV/System Backdoor (UA).md",
-    "SpellBook/D&D5/4th LV/Synchronicity (UA).md",
-    "SpellBook/D&D5/4th LV/Summon Greater Demon.md",
-    "SpellBook/D&D5/4th LV/Summon Elemental.md",
-    "SpellBook/D&D5/4th LV/Summon Construct.md",
-    "SpellBook/D&D5/4th LV/Summon Aberration.md",
-    "SpellBook/D&D5/4th LV/Storm Sphere.md",
-    "SpellBook/D&D5/4th LV/Stoneskin.md",
-    "SpellBook/D&D5/4th LV/Stone Shape.md",
-    "SpellBook/D&D5/4th LV/Staggering Smite.md",
-    "SpellBook/D&D5/4th LV/Spirit of Death (UA).md",
-    "SpellBook/D&D5/4th LV/Spirit Of Death.md",
-    "SpellBook/D&D5/4th LV/Sickening Radiance.md",
-    "SpellBook/D&D5/4th LV/Shadow Of Moil.md",
-    "SpellBook/D&D5/4th LV/Raulothim's Psychic Lance (UA).md",
-    "SpellBook/D&D5/4th LV/Raulothim's Psychic Lance.md",
-    "SpellBook/D&D5/4th LV/Polymorph.md",
-    "SpellBook/D&D5/4th LV/Phantasmal Killer.md",
-    "SpellBook/D&D5/4th LV/Otiluke's Resilient Sphere.md",
-    "SpellBook/D&D5/4th LV/Mordenkainen's Private Sanctum.md",
-    "SpellBook/D&D5/4th LV/Mordenkainen's Faithful Hound.md",
+    "SpellBook/D&D5/6th LV/Planar Ally.md",
+    "SpellBook/D&D5/6th LV/Primordial Ward.md",
+    "SpellBook/D&D5/6th LV/Otto's Irresistible Dance.md",
+    "SpellBook/D&D5/6th LV/Bones of the Earth.md",
+    "SpellBook/D&D5/6th LV/Otiluke's Freezing Sphere.md",
+    "SpellBook/D&D5/6th LV/Otherworldly Form (UA).md",
+    "SpellBook/D&D5/6th LV/Move Earth.md",
+    "SpellBook/D&D5/6th LV/Mental Prison.md",
+    "SpellBook/D&D5/6th LV/Mass Suggestion.md",
+    "SpellBook/D&D5/6th LV/Eyebite.md",
+    "SpellBook/D&D5/6th LV/Magic Jar.md",
+    "SpellBook/D&D5/6th LV/Investiture of Wind.md",
+    "SpellBook/D&D5/6th LV/Heroes' Feast.md",
+    "SpellBook/D&D5/6th LV/Investiture of Stone.md",
+    "SpellBook/D&D5/6th LV/Investiture of Ice.md",
+    "SpellBook/D&D5/6th LV/Investiture of Flame.md",
+    "SpellBook/D&D5/6th LV/Heal.md",
+    "SpellBook/D&D5/6th LV/Harm.md",
+    "SpellBook/D&D5/6th LV/Guards and Wards.md",
+    "SpellBook/D&D5/6th LV/Gravity Fissure.md",
+    "SpellBook/D&D5/6th LV/Globe of Invulnerability.md",
+    "SpellBook/D&D5/6th LV/Forbiddance.md",
+    "SpellBook/D&D5/6th LV/Flesh to Stone.md",
+    "SpellBook/D&D5/6th LV/Fizban's Platinum Shield (UA).md",
+    "SpellBook/D&D5/6th LV/Fizban's Platinum Shield.md",
+    "SpellBook/D&D5/6th LV/Find the Path.md",
+    "SpellBook/D&D5/6th LV",
     "Images",
     "Une affaire de chien/Sessions",
     "Une affaire de chien/Players",
@@ -190,7 +199,6 @@
     "Une affaire de chien/Event",
     "Shadows of heroism/Sessions",
     "Shadows of heroism/Players",
-    "Shadows of heroism/NPCs",
-    "Shadows of heroism/Groupes"
+    "Shadows of heroism/NPCs"
   ]
 }
