@@ -2,5 +2,6 @@
   "promptDelete": false,
   "newFileLocation": "root",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true
 }
