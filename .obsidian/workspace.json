@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8571dad92000bee7",
+        "id": "c9d5852a1bfa8935",
         "type": "tabs",
         "children": [
           {
-            "id": "87aa7ea10cb0c63c",
+            "id": "94ced3564426bcf3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SpellBook/D&D5/9th LV/Wish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SpellBook/D&D5/9th LV/Wish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SpellBook/D&D5/9th LV/Wish.md"
+              }
             }
           },
           {
@@ -156,33 +160,34 @@
   },
   "active": "0d017b2a0fcacc4d",
   "lastOpenFiles": [
+    "SpellBook/D&D5/9th LV/Weird.md",
+    "SpellBook/D&D5/9th LV/Wish.md",
+    "SpellBook/D&D5/9th LV/True Resurrection.md",
+    "SpellBook/D&D5/9th LV/True Polymorph.md",
+    "SpellBook/D&D5/9th LV/Time Stop.md",
+    "SpellBook/D&D5/9th LV/Time Ravage.md",
+    "SpellBook/D&D5/9th LV/Storm of Vengeance.md",
+    "SpellBook/D&D5/9th LV/Shapechange.md",
+    "SpellBook/D&D5/9th LV/Ravenous Void.md",
+    "SpellBook/D&D5/9th LV/Psychic Scream.md",
+    "SpellBook/D&D5/9th LV/Prismatic Wall.md",
+    "SpellBook/D&D5/9th LV/Power Word Kill.md",
+    "SpellBook/D&D5/9th LV/Power Word Heal.md",
+    "SpellBook/D&D5/9th LV/Meteor Swarm.md",
+    "SpellBook/D&D5/9th LV/Mass Polymorph.md",
+    "SpellBook/D&D5/9th LV/Mass Heal.md",
+    "SpellBook/D&D5/9th LV/Invulnerability.md",
+    "SpellBook/D&D5/9th LV/Imprisonment.md",
+    "SpellBook/D&D5/9th LV/Gate.md",
+    "SpellBook/D&D5/9th LV/Foresight.md",
+    "SpellBook/D&D5/9th LV/Blade of Disaster.md",
+    "SpellBook/D&D5/9th LV/Astral Projection.md",
+    "Templates/Spell.md",
+    "SpellBook/D&D5/9th LV",
     "SpellBook/D&D5/8th LV/Tsunami.md",
     "SpellBook/D&D5/8th LV/Demiplane.md",
     "SpellBook/D&D5/8th LV/Telepathy.md",
-    "SpellBook/D&D5/8th LV/Dark Star.md",
-    "SpellBook/D&D5/8th LV/Sunburst.md",
-    "SpellBook/D&D5/8th LV/Reality Break.md",
-    "SpellBook/D&D5/8th LV/Power Word Stun.md",
-    "SpellBook/D&D5/8th LV/Mind Blank.md",
-    "SpellBook/D&D5/8th LV/Mighty Fortress.md",
-    "SpellBook/D&D5/8th LV/Maze.md",
-    "SpellBook/D&D5/8th LV/Abi-Dalzim's Horrid Wilting.md",
-    "SpellBook/D&D5/8th LV/Maddening Darkness.md",
-    "SpellBook/D&D5/8th LV/Incendiary Cloud.md",
-    "SpellBook/D&D5/8th LV/Illusory Dragon.md",
-    "SpellBook/D&D5/8th LV/Holy Aura.md",
-    "SpellBook/D&D5/8th LV/Glibness.md",
-    "SpellBook/D&D5/8th LV/Feeblemind.md",
-    "SpellBook/D&D5/8th LV/Earthquake.md",
-    "SpellBook/D&D5/8th LV/Dominate Monster.md",
-    "SpellBook/D&D5/8th LV/Control Weather.md",
-    "SpellBook/D&D5/8th LV/Clone.md",
-    "SpellBook/D&D5/8th LV/Antipathy Sympathy.md",
-    "SpellBook/D&D5/8th LV/Antimagic Field.md",
-    "SpellBook/D&D5/8th LV/Animal Shapes.md",
-    "Templates/Spell.md",
     "SpellBook/D&D5/8th LV",
-    "SpellBook/D&D5/7th LV/Delayed Blast Fireball.md",
     "SpellBook/D&D5/7th LV",
     "SpellBook/D&D5/6th LV",
     "Images",
@@ -190,7 +195,6 @@
     "Une affaire de chien/Players",
     "Une affaire de chien/NPCs",
     "Une affaire de chien/Groupes",
-    "Une affaire de chien/Event",
-    "Shadows of heroism/Sessions"
+    "Une affaire de chien/Event"
   ]
 }
