@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab17a1807e15b723",
+        "id": "0c029fdfb4783c15",
         "type": "tabs",
         "children": [
           {
-            "id": "edf9cdcbad1c77e3",
+            "id": "3e7b5b44dda3d297",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SpellBook/D&D5/6th LV/Primordial Ward.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,34 +154,34 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "edf9cdcbad1c77e3",
+  "active": "0d017b2a0fcacc4d",
   "lastOpenFiles": [
-    "SpellBook/D&D5/6th LV/Planar Ally.md",
-    "SpellBook/D&D5/6th LV/Primordial Ward.md",
-    "SpellBook/D&D5/6th LV/Otto's Irresistible Dance.md",
+    "SpellBook/D&D5/6th LV/Word of Recall.md",
+    "SpellBook/D&D5/6th LV/Blade Barrier.md",
+    "SpellBook/D&D5/6th LV/Wind Walk.md",
+    "SpellBook/D&D5/6th LV/Widogast's Transmogrification (HB).md",
     "SpellBook/D&D5/6th LV/Bones of the Earth.md",
+    "SpellBook/D&D5/6th LV/Wall of Thorns.md",
+    "SpellBook/D&D5/6th LV/Wall of Ice.md",
+    "SpellBook/D&D5/6th LV/True Seeing.md",
+    "SpellBook/D&D5/6th LV/Transport via Plants.md",
+    "SpellBook/D&D5/6th LV/Tenser's Transformation.md",
+    "SpellBook/D&D5/6th LV/Tasha's Otherworldly Guise.md",
+    "SpellBook/D&D5/6th LV/Sunbeam.md",
+    "SpellBook/D&D5/6th LV/Summon Fiend.md",
+    "SpellBook/D&D5/6th LV/Soul Cage.md",
+    "SpellBook/D&D5/6th LV/Scatter.md",
+    "SpellBook/D&D5/6th LV/Psychic Crush (UA).md",
+    "SpellBook/D&D5/6th LV/Programmed Illusion.md",
+    "SpellBook/D&D5/6th LV/Primordial Ward.md",
+    "SpellBook/D&D5/6th LV/Planar Ally.md",
+    "SpellBook/D&D5/6th LV/Otto's Irresistible Dance.md",
     "SpellBook/D&D5/6th LV/Otiluke's Freezing Sphere.md",
     "SpellBook/D&D5/6th LV/Otherworldly Form (UA).md",
     "SpellBook/D&D5/6th LV/Move Earth.md",
     "SpellBook/D&D5/6th LV/Mental Prison.md",
     "SpellBook/D&D5/6th LV/Mass Suggestion.md",
     "SpellBook/D&D5/6th LV/Eyebite.md",
-    "SpellBook/D&D5/6th LV/Magic Jar.md",
-    "SpellBook/D&D5/6th LV/Investiture of Wind.md",
-    "SpellBook/D&D5/6th LV/Heroes' Feast.md",
-    "SpellBook/D&D5/6th LV/Investiture of Stone.md",
-    "SpellBook/D&D5/6th LV/Investiture of Ice.md",
-    "SpellBook/D&D5/6th LV/Investiture of Flame.md",
-    "SpellBook/D&D5/6th LV/Heal.md",
-    "SpellBook/D&D5/6th LV/Harm.md",
-    "SpellBook/D&D5/6th LV/Guards and Wards.md",
-    "SpellBook/D&D5/6th LV/Gravity Fissure.md",
-    "SpellBook/D&D5/6th LV/Globe of Invulnerability.md",
-    "SpellBook/D&D5/6th LV/Forbiddance.md",
-    "SpellBook/D&D5/6th LV/Flesh to Stone.md",
-    "SpellBook/D&D5/6th LV/Fizban's Platinum Shield (UA).md",
-    "SpellBook/D&D5/6th LV/Fizban's Platinum Shield.md",
-    "SpellBook/D&D5/6th LV/Find the Path.md",
     "SpellBook/D&D5/6th LV",
     "Images",
     "Une affaire de chien/Sessions",
