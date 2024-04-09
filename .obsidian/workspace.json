@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c029fdfb4783c15",
+        "id": "b6adc602f40ff9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "3e7b5b44dda3d297",
+            "id": "34991296730d78ff",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SpellBook/D&D5/7th LV/Whirlwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SpellBook/D&D5/7th LV/Whirlwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SpellBook/D&D5/7th LV/Whirlwind.md"
+              }
             }
           },
           {
@@ -156,32 +160,33 @@
   },
   "active": "0d017b2a0fcacc4d",
   "lastOpenFiles": [
-    "SpellBook/D&D5/6th LV/Word of Recall.md",
-    "SpellBook/D&D5/6th LV/Blade Barrier.md",
-    "SpellBook/D&D5/6th LV/Wind Walk.md",
-    "SpellBook/D&D5/6th LV/Widogast's Transmogrification (HB).md",
-    "SpellBook/D&D5/6th LV/Bones of the Earth.md",
-    "SpellBook/D&D5/6th LV/Wall of Thorns.md",
-    "SpellBook/D&D5/6th LV/Wall of Ice.md",
-    "SpellBook/D&D5/6th LV/True Seeing.md",
-    "SpellBook/D&D5/6th LV/Transport via Plants.md",
-    "SpellBook/D&D5/6th LV/Tenser's Transformation.md",
-    "SpellBook/D&D5/6th LV/Tasha's Otherworldly Guise.md",
-    "SpellBook/D&D5/6th LV/Sunbeam.md",
-    "SpellBook/D&D5/6th LV/Summon Fiend.md",
-    "SpellBook/D&D5/6th LV/Soul Cage.md",
-    "SpellBook/D&D5/6th LV/Scatter.md",
-    "SpellBook/D&D5/6th LV/Psychic Crush (UA).md",
-    "SpellBook/D&D5/6th LV/Programmed Illusion.md",
-    "SpellBook/D&D5/6th LV/Primordial Ward.md",
-    "SpellBook/D&D5/6th LV/Planar Ally.md",
-    "SpellBook/D&D5/6th LV/Otto's Irresistible Dance.md",
-    "SpellBook/D&D5/6th LV/Otiluke's Freezing Sphere.md",
-    "SpellBook/D&D5/6th LV/Otherworldly Form (UA).md",
-    "SpellBook/D&D5/6th LV/Move Earth.md",
-    "SpellBook/D&D5/6th LV/Mental Prison.md",
-    "SpellBook/D&D5/6th LV/Mass Suggestion.md",
-    "SpellBook/D&D5/6th LV/Eyebite.md",
+    "SpellBook/D&D5/7th LV/Delayed Blast Fireball.md",
+    "SpellBook/D&D5/7th LV/Whirlwind.md",
+    "SpellBook/D&D5/7th LV/Tether Essence.md",
+    "SpellBook/D&D5/7th LV/Crown of Stars.md",
+    "SpellBook/D&D5/7th LV/Temple of the Gods.md",
+    "SpellBook/D&D5/7th LV/Teleport.md",
+    "SpellBook/D&D5/7th LV/Symbol.md",
+    "SpellBook/D&D5/7th LV/Simulacrum.md",
+    "SpellBook/D&D5/7th LV/Sequester.md",
+    "SpellBook/D&D5/7th LV/Reverse Gravity.md",
+    "SpellBook/D&D5/7th LV/Resurrection.md",
+    "SpellBook/D&D5/7th LV/Regenerate.md",
+    "SpellBook/D&D5/7th LV/Project Image.md",
+    "SpellBook/D&D5/7th LV/Prismatic Spray.md",
+    "SpellBook/D&D5/7th LV/Power Word Pain.md",
+    "SpellBook/D&D5/7th LV/Conjure Hezrou (UA).md",
+    "SpellBook/D&D5/7th LV/Plane Shift.md",
+    "SpellBook/D&D5/7th LV/Mordenkainen's Sword.md",
+    "SpellBook/D&D5/7th LV/Mordenkainen's Magnificent Mansion.md",
+    "SpellBook/D&D5/7th LV/Mirage Arcane.md",
+    "SpellBook/D&D5/7th LV/Forcecage.md",
+    "SpellBook/D&D5/7th LV/Fire Storm.md",
+    "SpellBook/D&D5/7th LV/Finger of Death.md",
+    "SpellBook/D&D5/7th LV/Etherealness.md",
+    "SpellBook/D&D5/7th LV/Conjure Celestial.md",
+    "SpellBook/D&D5/7th LV/Dream of the Blue Veil.md",
+    "SpellBook/D&D5/7th LV",
     "SpellBook/D&D5/6th LV",
     "Images",
     "Une affaire de chien/Sessions",
@@ -190,7 +195,6 @@
     "Une affaire de chien/Groupes",
     "Une affaire de chien/Event",
     "Shadows of heroism/Sessions",
-    "Shadows of heroism/Players",
-    "Shadows of heroism/NPCs"
+    "Shadows of heroism/Players"
   ]
 }
