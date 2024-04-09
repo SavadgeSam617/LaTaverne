@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6adc602f40ff9b9",
+        "id": "8571dad92000bee7",
         "type": "tabs",
         "children": [
           {
-            "id": "34991296730d78ff",
+            "id": "87aa7ea10cb0c63c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpellBook/D&D5/7th LV/Whirlwind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpellBook/D&D5/7th LV/Whirlwind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SpellBook/D&D5/7th LV/Whirlwind.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,32 +156,33 @@
   },
   "active": "0d017b2a0fcacc4d",
   "lastOpenFiles": [
+    "SpellBook/D&D5/8th LV/Tsunami.md",
+    "SpellBook/D&D5/8th LV/Demiplane.md",
+    "SpellBook/D&D5/8th LV/Telepathy.md",
+    "SpellBook/D&D5/8th LV/Dark Star.md",
+    "SpellBook/D&D5/8th LV/Sunburst.md",
+    "SpellBook/D&D5/8th LV/Reality Break.md",
+    "SpellBook/D&D5/8th LV/Power Word Stun.md",
+    "SpellBook/D&D5/8th LV/Mind Blank.md",
+    "SpellBook/D&D5/8th LV/Mighty Fortress.md",
+    "SpellBook/D&D5/8th LV/Maze.md",
+    "SpellBook/D&D5/8th LV/Abi-Dalzim's Horrid Wilting.md",
+    "SpellBook/D&D5/8th LV/Maddening Darkness.md",
+    "SpellBook/D&D5/8th LV/Incendiary Cloud.md",
+    "SpellBook/D&D5/8th LV/Illusory Dragon.md",
+    "SpellBook/D&D5/8th LV/Holy Aura.md",
+    "SpellBook/D&D5/8th LV/Glibness.md",
+    "SpellBook/D&D5/8th LV/Feeblemind.md",
+    "SpellBook/D&D5/8th LV/Earthquake.md",
+    "SpellBook/D&D5/8th LV/Dominate Monster.md",
+    "SpellBook/D&D5/8th LV/Control Weather.md",
+    "SpellBook/D&D5/8th LV/Clone.md",
+    "SpellBook/D&D5/8th LV/Antipathy Sympathy.md",
+    "SpellBook/D&D5/8th LV/Antimagic Field.md",
+    "SpellBook/D&D5/8th LV/Animal Shapes.md",
+    "Templates/Spell.md",
+    "SpellBook/D&D5/8th LV",
     "SpellBook/D&D5/7th LV/Delayed Blast Fireball.md",
-    "SpellBook/D&D5/7th LV/Whirlwind.md",
-    "SpellBook/D&D5/7th LV/Tether Essence.md",
-    "SpellBook/D&D5/7th LV/Crown of Stars.md",
-    "SpellBook/D&D5/7th LV/Temple of the Gods.md",
-    "SpellBook/D&D5/7th LV/Teleport.md",
-    "SpellBook/D&D5/7th LV/Symbol.md",
-    "SpellBook/D&D5/7th LV/Simulacrum.md",
-    "SpellBook/D&D5/7th LV/Sequester.md",
-    "SpellBook/D&D5/7th LV/Reverse Gravity.md",
-    "SpellBook/D&D5/7th LV/Resurrection.md",
-    "SpellBook/D&D5/7th LV/Regenerate.md",
-    "SpellBook/D&D5/7th LV/Project Image.md",
-    "SpellBook/D&D5/7th LV/Prismatic Spray.md",
-    "SpellBook/D&D5/7th LV/Power Word Pain.md",
-    "SpellBook/D&D5/7th LV/Conjure Hezrou (UA).md",
-    "SpellBook/D&D5/7th LV/Plane Shift.md",
-    "SpellBook/D&D5/7th LV/Mordenkainen's Sword.md",
-    "SpellBook/D&D5/7th LV/Mordenkainen's Magnificent Mansion.md",
-    "SpellBook/D&D5/7th LV/Mirage Arcane.md",
-    "SpellBook/D&D5/7th LV/Forcecage.md",
-    "SpellBook/D&D5/7th LV/Fire Storm.md",
-    "SpellBook/D&D5/7th LV/Finger of Death.md",
-    "SpellBook/D&D5/7th LV/Etherealness.md",
-    "SpellBook/D&D5/7th LV/Conjure Celestial.md",
-    "SpellBook/D&D5/7th LV/Dream of the Blue Veil.md",
     "SpellBook/D&D5/7th LV",
     "SpellBook/D&D5/6th LV",
     "Images",
@@ -194,7 +191,6 @@
     "Une affaire de chien/NPCs",
     "Une affaire de chien/Groupes",
     "Une affaire de chien/Event",
-    "Shadows of heroism/Sessions",
-    "Shadows of heroism/Players"
+    "Shadows of heroism/Sessions"
   ]
 }

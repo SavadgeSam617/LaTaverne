@@ -1,6 +1,6 @@
 ---
 Type: Spell
-Spell LV: 7
+Spell LV: 8
 School: 
 Ressource: 
 Range: 
