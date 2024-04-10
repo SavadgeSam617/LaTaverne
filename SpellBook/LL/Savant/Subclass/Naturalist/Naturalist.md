@@ -8,7 +8,7 @@ The Naturalist's classroom begins at the edge of civilization. They are scholars
 
 ### 3rd-Level
 #### [[Student of Nature]]
-Proficienty in Nature & Survival, +int die, use int instead of wis
+Proficienty in Nature & Survival, +int die
 #### [[Naturalist's Journal]]
 
 ### 6th-Level

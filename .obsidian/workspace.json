@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d5852a1bfa8935",
+        "id": "4e8777b7a8eb08d1",
         "type": "tabs",
         "children": [
           {
-            "id": "94ced3564426bcf3",
+            "id": "aac92a9b40292ac4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,43 +154,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "94ced3564426bcf3",
+  "active": "aac92a9b40292ac4",
   "lastOpenFiles": [
-    "SpellBook/LL/Savant/Savant - Level table.md",
-    "SpellBook/LL/Savant/Savant - Base.md",
-    "SpellBook/D&D5/9th LV/Weird.md",
-    "SpellBook/D&D5/9th LV/Wish.md",
-    "SpellBook/D&D5/9th LV/True Resurrection.md",
-    "SpellBook/D&D5/9th LV/True Polymorph.md",
-    "SpellBook/D&D5/9th LV/Time Stop.md",
-    "SpellBook/D&D5/9th LV/Time Ravage.md",
-    "SpellBook/D&D5/9th LV/Storm of Vengeance.md",
-    "SpellBook/D&D5/9th LV/Shapechange.md",
-    "SpellBook/D&D5/9th LV/Ravenous Void.md",
-    "SpellBook/D&D5/9th LV/Psychic Scream.md",
-    "SpellBook/D&D5/9th LV/Prismatic Wall.md",
-    "SpellBook/D&D5/9th LV/Power Word Kill.md",
-    "SpellBook/D&D5/9th LV/Power Word Heal.md",
-    "SpellBook/D&D5/9th LV/Meteor Swarm.md",
-    "SpellBook/D&D5/9th LV/Mass Polymorph.md",
-    "SpellBook/D&D5/9th LV/Mass Heal.md",
-    "SpellBook/D&D5/9th LV/Invulnerability.md",
-    "SpellBook/D&D5/9th LV/Imprisonment.md",
-    "SpellBook/D&D5/9th LV/Gate.md",
-    "SpellBook/D&D5/9th LV/Foresight.md",
-    "SpellBook/D&D5/9th LV/Blade of Disaster.md",
-    "SpellBook/D&D5/9th LV/Astral Projection.md",
-    "Templates/Spell.md",
+    "SpellBook/LL/Savant/Savant - Sublclass list.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Mentor.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Master Mentor.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Mystical Intuition.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Soothing Presence.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Astute Advice.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Student of Life.md",
+    "SpellBook/LL/Savant/Subclass/Mentor/Adept Assistance.md",
+    "SpellBook/LL/Savant/Subclass/Naturalist/Naturalist.md",
+    "SpellBook/LL/Savant/Subclass/Naturalist/Student of Nature.md",
+    "SpellBook/LL/Savant/Subclass/Mentor",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian Creature Recipes.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Master Culinarian.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Improved Recipes.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Cut Above.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Student of Flavor.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian's Cook Book.md",
+    "Templates/classinfo.md",
+    "SpellBook/LL/Savant/Subclass/Culinarian",
+    "Templates/Subclass.md",
+    "SpellBook/LL/Savant/Pursuit/Musicianship.md",
+    "SpellBook/LL/Savant/Pursuit/Mercantilism.md",
+    "SpellBook/LL/Savant/Pursuit/Marksmanship.md",
+    "SpellBook/LL/Savant/Pursuit/First Aid.md",
+    "SpellBook/LL/Savant/Pursuit/Equestrianism.md",
+    "SpellBook/LL/Savant/Pursuit/Bushcraft.md",
+    "SpellBook/LL/Savant/Pursuit/Polymath.md",
+    "SpellBook/LL/Savant/Pursuit",
+    "SpellBook/LL/Savant/Subclass/Tactician/Order",
+    "SpellBook/LL/Savant/Subclass/Tactician",
+    "SpellBook/LL/Savant/Subclass/Physician/Medicinal Expertise",
+    "SpellBook/LL/Savant/Subclass/Physician/Combat Medic",
+    "SpellBook/LL/Savant/Subclass/Physician",
     "SpellBook/D&D5/9th LV",
-    "SpellBook/D&D5/8th LV/Tsunami.md",
-    "SpellBook/D&D5/8th LV",
-    "SpellBook/D&D5/7th LV",
-    "SpellBook/D&D5/6th LV",
-    "Images",
-    "Une affaire de chien/Sessions",
-    "Une affaire de chien/Players",
-    "Une affaire de chien/NPCs",
-    "Une affaire de chien/Groupes",
-    "Une affaire de chien/Event"
+    "SpellBook/D&D5/8th LV"
   ]
 }
