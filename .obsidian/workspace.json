@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4e8777b7a8eb08d1",
+        "id": "b0c1f8d3deba6918",
         "type": "tabs",
         "children": [
           {
-            "id": "aac92a9b40292ac4",
+            "id": "80bbf55f007f9b5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpellBook/LL/Savant/Savant - Sublclass list.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Mind thrust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SpellBook/LL/Savant/Savant - Sublclass list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SpellBook/LL/Savant/Savant - Sublclass list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SpellBook/LL/Savant/Savant - Sublclass list.md"
+              }
             }
           },
           {
@@ -154,43 +162,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "aac92a9b40292ac4",
+  "active": "80bbf55f007f9b5e",
   "lastOpenFiles": [
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Rune Scribe.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Rune Carving.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Transmutation.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Divination.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Conjuration.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Necromancy.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Illusion.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Enchantment.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Abjuration.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes/Rune of Evocation.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Master Rune Scribe.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runes",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Runic Ward.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Elder Magicks.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe/Student of Rune Magic.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Virtuoso.md",
     "SpellBook/LL/Savant/Savant - Sublclass list.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Mentor.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Master Mentor.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Mystical Intuition.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Soothing Presence.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Astute Advice.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Student of Life.md",
-    "SpellBook/LL/Savant/Subclass/Mentor/Adept Assistance.md",
-    "SpellBook/LL/Savant/Subclass/Naturalist/Naturalist.md",
-    "SpellBook/LL/Savant/Subclass/Naturalist/Student of Nature.md",
+    "SpellBook/LL/Savant/Subclass/Rune Scribe",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Master Virtuoso.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Empowered Theme.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Disarming Melody.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Wondrous Theme.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Theme/Uplifting Melody.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Theme/Inspiring Tune.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Theme/Discordant Note.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Theme",
+    "SpellBook/LL/Savant/Subclass/Virtuoso/Student of Music.md",
+    "SpellBook/D&D5/2nd LV/Mind Thrust (UA).md",
+    "SpellBook/LL/Savant/Subclass/Philosopher/Philosopher.md",
+    "SpellBook/LL/Savant/Subclass/Virtuoso",
+    "SpellBook/LL/Savant/Subclass/Philosopher/Words of power",
+    "SpellBook/LL/Savant/Subclass/Philosopher",
+    "SpellBook/LL/Savant/Subclass/Orator/Rhetorical Superiority",
+    "SpellBook/LL/Savant/Subclass/Orator",
     "SpellBook/LL/Savant/Subclass/Mentor",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian Creature Recipes.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Master Culinarian.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Improved Recipes.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Cut Above.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Student of Flavor.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian/Culinarian's Cook Book.md",
-    "Templates/classinfo.md",
-    "SpellBook/LL/Savant/Subclass/Culinarian",
-    "Templates/Subclass.md",
-    "SpellBook/LL/Savant/Pursuit/Musicianship.md",
-    "SpellBook/LL/Savant/Pursuit/Mercantilism.md",
-    "SpellBook/LL/Savant/Pursuit/Marksmanship.md",
-    "SpellBook/LL/Savant/Pursuit/First Aid.md",
-    "SpellBook/LL/Savant/Pursuit/Equestrianism.md",
-    "SpellBook/LL/Savant/Pursuit/Bushcraft.md",
-    "SpellBook/LL/Savant/Pursuit/Polymath.md",
-    "SpellBook/LL/Savant/Pursuit",
-    "SpellBook/LL/Savant/Subclass/Tactician/Order",
-    "SpellBook/LL/Savant/Subclass/Tactician",
-    "SpellBook/LL/Savant/Subclass/Physician/Medicinal Expertise",
-    "SpellBook/LL/Savant/Subclass/Physician/Combat Medic",
-    "SpellBook/LL/Savant/Subclass/Physician",
-    "SpellBook/D&D5/9th LV",
-    "SpellBook/D&D5/8th LV"
+    "SpellBook/LL/Savant/Subclass/Culinarian"
   ]
 }
