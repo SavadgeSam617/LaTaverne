@@ -11,8 +11,12 @@
             "id": "94ced3564426bcf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpellBook/D&D5/9th LV/Wish.md",
+                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpellBook/D&D5/9th LV/Wish.md",
+                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpellBook/D&D5/9th LV/Wish.md"
+                "file": "SpellBook/LL/Savant/Savant - Multiclass rules.md"
               }
             }
           },
@@ -146,20 +150,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "random-note:Ouvre une note au hasard": false,
-      "workspaces:Gérer les espaces de travail": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "0d017b2a0fcacc4d",
+  "active": "94ced3564426bcf3",
   "lastOpenFiles": [
+    "SpellBook/LL/Savant/Savant - Level table.md",
+    "SpellBook/LL/Savant/Savant - Base.md",
     "SpellBook/D&D5/9th LV/Weird.md",
     "SpellBook/D&D5/9th LV/Wish.md",
     "SpellBook/D&D5/9th LV/True Resurrection.md",
@@ -185,8 +191,6 @@
     "Templates/Spell.md",
     "SpellBook/D&D5/9th LV",
     "SpellBook/D&D5/8th LV/Tsunami.md",
-    "SpellBook/D&D5/8th LV/Demiplane.md",
-    "SpellBook/D&D5/8th LV/Telepathy.md",
     "SpellBook/D&D5/8th LV",
     "SpellBook/D&D5/7th LV",
     "SpellBook/D&D5/6th LV",
