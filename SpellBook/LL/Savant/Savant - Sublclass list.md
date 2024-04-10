@@ -5,7 +5,7 @@ tags:
   - Sublclass
 ---
 # Academic Discipline
-- [[Archaeologist]]
+- [[Archeologist]]
 - [[Investigator]]
 - [[Naturalist]]
 - [[Physician]]
