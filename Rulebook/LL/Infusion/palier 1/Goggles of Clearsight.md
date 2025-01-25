@@ -6,5 +6,4 @@ While wearing these magical goggles the wearer can see normally through light or
 
 
 # ALTERNATE
-While wearing these goggles, the wearer can see through lightly obscured areas without disadvantage on Wisdom (Perception) checks. In addition, the wearer no longer suffers
-the negative effects from the Sunlight Sensativity trait, and they have advantage on saving throws to resist being blinded.
+While wearing these goggles, the wearer can see through lightly obscured areas without disadvantage on Wisdom (Perception) checks. In addition, the wearer no longer suffers the negative effects from the Sunlight Sensativity trait, and they have advantage on saving throws to resist being blinded.
